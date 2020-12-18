@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    box-sizing: border-box;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    width: 900px;
+    align-content: center;
+
+}
+
+.img-container{
+    background-color: green;
+}
